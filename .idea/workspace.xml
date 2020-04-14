@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3ce31b5-3281-4857-8dce-fb5e9fbd75ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Train_Deploy_DGA_RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Train_Deploy_DGA_RNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/matsnu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/matsnu.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/lstm_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/lstm_estimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
