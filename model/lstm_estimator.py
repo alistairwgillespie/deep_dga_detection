@@ -37,5 +37,5 @@ class LstmEstimator(nn.Module):
         
         # define the feedforward behavior
         lstm_out, _ = self.lstm(embeds.view(len(input_playlist), 1, -1))
-        target_feat = self.hidden2tag(lstm_out.view(len(input_playlist), -1))
+        target_feat = self.hidden2target(lstm_out.view(len(input_playlist), -1))
         return target_feat

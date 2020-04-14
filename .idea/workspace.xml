@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3ce31b5-3281-4857-8dce-fb5e9fbd75ba" name="Default Changelist" comment="" />
+    <list default="true" id="e3ce31b5-3281-4857-8dce-fb5e9fbd75ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Train_Deploy_DGA_RNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Train_Deploy_DGA_RNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/matsnu.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/matsnu.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/lstm_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/lstm_estimator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZMnCAFHZLbx6hSvGpMX5p0GZ1I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wmw_deep_playlist_generator" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,9 +41,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584755550831">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1586840371360">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586840371360" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586834453204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584755550831" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1585176722762" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586834453204" />
   </component>
 </project>
