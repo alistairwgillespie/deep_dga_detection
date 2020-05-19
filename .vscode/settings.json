@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "C:\\Users\\gilleal\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
-}
