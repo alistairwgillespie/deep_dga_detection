@@ -1,6 +1,8 @@
 # Data
 data/*
-
+*.csv
+*.tar
+*.csv.zip
 .idea
 .vscode
 

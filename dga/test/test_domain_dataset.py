@@ -4,7 +4,7 @@ from dga.datasets.domain_dataset import DomainDataset
 
 class DomainDatasetTest(unittest.TestCase):
     def setUp(self):
-        self.data = 'football.csv'
+        self.data = 'data/test_dataset.csv'
 
     def test_csv_read_data_headers(self):
         self.assertEqual(

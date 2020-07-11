@@ -13,7 +13,7 @@ class DomainDataset(Dataset):
         self.all_chars =  self.__build__chars__()
         self.inputs = self.data_df.iloc[:, 0]
         if train:
-            self.labels = self.data_df.iloc[:, 0]
+            self.labels = self.data_df.iloc[:, 1]
         
         self.data_len = len(self.data_df.index)
 
