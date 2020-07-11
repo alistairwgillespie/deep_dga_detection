@@ -5,12 +5,12 @@ channels:
   - pytorch
   - defaults
 dependencies:
-  - python=3.7
+  - python=3.7.0
   - pandas
   - numpy
   - scipy
-  - tqdm=4.41.1
-  - docopt=0.6.2
+  - tqdm
+  - docopt
   - pytorch
   - torchvision
   - seaborn
