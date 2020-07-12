@@ -12,7 +12,7 @@ sep = ","
 
 def check_data(data):
     # ... your tests
-    return True  # << True if data should be written into target file, else False
+    return True  # << True if not corrupt, else False
 
 
 with open("data/train_example.csv", "a+") as targetfile:

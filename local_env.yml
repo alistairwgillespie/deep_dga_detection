@@ -7,6 +7,7 @@ channels:
 dependencies:
   - python=3.7.0
   - pandas
+  - dask
   - numpy
   - scipy
   - tqdm
