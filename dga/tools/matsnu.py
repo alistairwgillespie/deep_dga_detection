@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""MATSNU DGA
+"""
+# Author: Andrey Abakumov <andrewaeva@ya.ru>
+
+
 __author__ = 'andrewa'
 import datetime
 import random

@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""ROVNIX DGA
+"""
+# Author: Andrey Abakumov <andrewaeva@ya.ru>
+
+
 __author__ = 'andrewa'
 import random
 

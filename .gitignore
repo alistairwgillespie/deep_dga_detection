@@ -1,6 +1,8 @@
 # Data
 data/*
-
+*.csv
+*.tar
+*.csv.zip
 .idea
 .vscode
 
@@ -133,3 +135,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
