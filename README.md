@@ -1,11 +1,4 @@
-# Threat Science Toolkit 
-
-The Threat Science Toolkit is a suite of data pipelines, tools, machine learning models and utilities aimed at detecting threats in data.
-
-# Approach
----
-The following methodology illustrates the workflow for developing out the toolkit:
-![threat_science](img/threat_science.png =750x)
+# Deep DGA Detection 
 
 # Getting Started
 ---
