@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure://threatscience
+    connection_string = DefaultEndpointsProtocol=https;AccountName=threatcience;AccountKey=Bs0rIgRyc5rL1ugsY0y6qcwSqD0dOu0/n89YrC+2/rQTMrdgt8IegS+Ts4klUwDwpmNYK677/4gZwcFTbOHf/g==;EndpointSuffix=core.windows.net

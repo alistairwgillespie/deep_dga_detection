@@ -1,7 +1,7 @@
 # Data
-data/*
 *.csv
 *.tar
+*.xlsx
 *.csv.zip
 .idea
 .vscode
@@ -136,3 +136,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+#MLFLOW
+mlruns/
+
+#DASK 
+notebooks/dask-worker-space/
+/models/
+
+# Node
+interface/node_modules/*
