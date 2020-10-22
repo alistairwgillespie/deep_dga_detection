@@ -32,7 +32,7 @@ python eventgen.py
 
 OPTIONAL: Add environment to Jupyter Notebook
 ```bash
-python -m ipykernel install --user --name=threat_science
+python -m ipykernel install --user --name=deeg_dga
 ```
 
 ## References
